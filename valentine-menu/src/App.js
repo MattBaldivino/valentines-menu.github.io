@@ -24,7 +24,7 @@ function App() {
             </div>
             <div className='right'>
               <h3>Yellowtail Kinilaw</h3>
-              <p>The Filipino counterpart to ceviche. Yellowtail is "cooked" in vinegar and combined with chilis<br></br>, onions, 
+              <p>The Filipino counterpart to ceviche. Yellowtail is "cooked" in vinegar and combined with chilis, onions, 
               and ginger. A coconut cream sauce is added to mellow out the sharp flavors.</p>
             </div>
           </div>
@@ -36,8 +36,8 @@ function App() {
             </div>
             <div className='right'>
               <h3>Chicken Kare-Kare</h3>
-              <p>Drawing inspiration from Hong Kong-style chicken steak with black pepper sauce, <br></br>
-              this take on a Filipino classic combines the familiar flavors of kare-kare and bagoong<br></br>
+              <p>Drawing inspiration from Hong Kong-style chicken steak with black pepper sauce,
+              this take on a Filipino classic combines the familiar flavors of kare-kare and bagoong
               with a crispy pan-seared chicken thigh.</p>
             </div>
           </div>
