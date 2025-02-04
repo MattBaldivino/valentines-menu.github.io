@@ -11,9 +11,10 @@ function App() {
               <h1>Dinner Menu</h1>
               <hr></hr>
               <p>February 15, 2025</p>
+              <p>Matt + Trish</p>
             </div>
             <div className='child-two'>
-              <img src={photo} alt="Trish and Matt" />
+              <center><img src={photo} alt="Trish and Matt" /></center>
             </div>
           </div>
         </div>

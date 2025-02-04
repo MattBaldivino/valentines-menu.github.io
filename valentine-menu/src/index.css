@@ -21,7 +21,6 @@ hr{
   background-color: #000;
   height: 1px;
   border: 0
-
 }
 
 p {
@@ -41,7 +40,7 @@ h2 {
 img {
   width: 30%;
   height: 30%;
-  display: block;
+  margin-right: auto;
   margin-left: auto;
 }
 
