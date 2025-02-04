@@ -10,10 +10,11 @@ function App() {
             <div className='child-one'>
               <h1>Dinner Menu</h1>
               <hr></hr>
-              <p>February 14, 2025</p>
+              <p>February 15, 2025</p>
+              <p>Matt + Trish</p>
             </div>
             <div className='child-two'>
-              <center><img src={photo} alt="Trish and Matt" /></center>
+              <img src={photo} alt="Trish and Matt" />
             </div>
           </div>
         </div>
@@ -50,6 +51,17 @@ function App() {
             <div className='right'>
               <h3>Milk Tea Leche Flan</h3>
               <p>Smoky and floral dahongpao oolong balance out the sweetness of a traditional leche flan.</p>
+            </div>
+          </div>
+          <br></br>
+          <br></br>
+          <div className='item'>
+            <div className='left'>
+              <h2>Drink</h2> 
+            </div>
+            <div className='right'>
+              <h3>Highball</h3>
+              <p>Citron soju, sparkling water, and calamansi come together to create a refreshing cocktail that cuts through the rich kare-kare.</p>
             </div>
           </div>
         </div>

@@ -17,6 +17,10 @@ h1, h2, h3 {
   font-weight: bold;
 }
 
+h1{
+  font-size: 2.5em;
+}
+
 hr{
   background-color: #000;
   height: 1px;
@@ -41,8 +45,8 @@ h2 {
 img {
   width: 30%;
   height: 30%;
+  display: block;
   margin-left: auto;
-  margin-right: auto;
 }
 
 .App {
@@ -127,8 +131,11 @@ img {
   .header{
     padding-bottom: 25%;
     padding-top: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   .body{
     padding-left: 5%;
+    padding-right: 5%;
   }
 }
