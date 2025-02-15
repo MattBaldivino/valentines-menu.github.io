@@ -1,6 +1,5 @@
 import './App.css';
 
-import photo from './media/valentine_photo.jpg';
 function App() {
   return (
     <div className="App">
