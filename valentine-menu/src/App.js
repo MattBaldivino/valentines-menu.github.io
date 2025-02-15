@@ -14,7 +14,6 @@ function App() {
               <p>Matt + Trish</p>
             </div>
             <div className='child-two'>
-              <img src={photo} alt="Trish and Matt" />
             </div>
           </div>
         </div>
