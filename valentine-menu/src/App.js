@@ -7,7 +7,7 @@ function App() {
         <div className="header">
           <div className='table-container'>
             <div className='child-one'>
-              <h1>Dinner Menu</h1>
+              <h1>Lunch Menu</h1>
               <hr></hr>
               <p>February 15, 2025</p>
               <p>Matt + Trish</p>
